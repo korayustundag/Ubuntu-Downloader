@@ -1,2 +1,2 @@
-# Ubuntu-Downloader
+# Ubuntu Downloader
 Ubuntu Downloader for Windows
